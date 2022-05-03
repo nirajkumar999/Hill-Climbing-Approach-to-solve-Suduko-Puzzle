@@ -6,7 +6,7 @@ After setting up the interpreter run this **Hill Climbing Approach To Solve Sudu
 
 The other two files **100sudoku.txt** and **1000sudoku.txt** are the input files for the above mentioned python code , consisiting of various sets of Sudoku puzzle.
 
-**Output of code will look like**
+# **Output of code will look like**
 
 ![image](https://user-images.githubusercontent.com/84171890/166552761-8ed8174a-6e5f-42da-b482-d37052216f67.png)
 
